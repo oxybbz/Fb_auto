@@ -14,7 +14,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-BOT_TOKEN = "8747596897:AAFMQ9vSBn_EHGRI7kjDIdyhfB3BSHsMpOY"
+BOT_TOKEN = "9113289467:AAHJiDPaPQkj6aYBwW4dPfig5fHpJRs7uw0"
 HEADLESS = True
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
